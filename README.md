@@ -195,5 +195,3 @@ If you found this project useful:
 This project is provided for educational and research purposes only.
 
 ---
-
-### Made with ❤️ using Python, Cryptography, and Cybersecurity Concepts
